@@ -1,8 +1,8 @@
 //---------------------------------------------------------------------------
-//           EMPIRE-MD  
+//           RAHUL-AI  
 //---------------------------------------------------------------------------
-//  @project_name : EMPIRE-MD  
-//  @author       : efeurhobo  
+//  @project_name : RAHUL-AI  
+//  @author       : rahulmaster  
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 forwardingScore: 5,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363337275149306@newsletter',
+                    newsletterJid: '120363423981735135@g.us',
                     newsletterName: global.botname,
                     serverMessageId: 143
                 }
@@ -230,7 +230,7 @@ cmd({
                 forwardingScore: 5,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363337275149306@newsletter',
+                    newsletterJid: '120363423981735135@g.us',
                     newsletterName: global.botname,
                     serverMessageId: 143
                 }
@@ -337,7 +337,7 @@ cmd({
 //---------------------------------------------------------------------------
 cmd({
   pattern: "facebook",
-  alias: "fbdl",
+  alias: "fb",
   react: "🚀",
   category: "downloader",
   desc: "Fetches Facebook video download link.",
