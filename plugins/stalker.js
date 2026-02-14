@@ -23,7 +23,7 @@ cmd({
         const userInfo = {
             image: { url: data.avatar_url },
             caption: `
-╭───「 𝚂𝚃𝙰𝙻𝙺𝙴𝚁 」───◆  
+╭───「 RAHUL-AI 」───◆  
 │ ∘ 𝚄𝚜𝚎𝚛𝚗𝚊𝚖𝚎: ${data.name || data.login}  
 │ ∘ 𝙶𝚒𝚝𝙷𝚞𝚋 𝚄𝚁𝙻: ${data.html_url}  
 │ ∘ 𝙱𝚒𝚘: ${data.bio || 'Not available'}  
@@ -41,7 +41,7 @@ ${global.caption}`,
                 forwardingScore: 5,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363337275149306@newsletter",
+                    newsletterJid: "120363423981735135@g.us",
                     newsletterName: global.botname,
                     serverMessageId: 143
                 }
@@ -74,7 +74,7 @@ cmd({
         const userInfo = {
             image: { url: data.photo },
             caption: `
-╭──「 𝚂𝚃𝙰𝙻𝙺𝙴𝚁 」───◆  
+╭──「 RAHUL-AI 」───◆  
 │ ∘ 𝚄𝚜𝚎𝚛𝚗𝚊𝚖𝚎: ${data.name}  
 │ ∘ 𝙱𝚒𝚘: ${data.bio || 'Not available'}  
 │ ∘ 𝙷𝚊𝚗𝚍𝚕𝚎: @${data.username}  
@@ -86,7 +86,7 @@ ${global.caption}`,
                 forwardingScore: 5,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363337275149306@newsletter",
+                    newsletterJid: "120363423981735135@g.us",
                     newsletterName: global.botname,
                     serverMessageId: 143
                 }
@@ -119,7 +119,7 @@ cmd({
         const channelInfo = {
             image: { url: data.img },
             caption: `
-╭────「 𝚂𝚃𝙰𝙻𝙺𝙴𝚁 」────◆  
+╭────「 RAHUL-AI 」────◆  
 │ ∘ 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝚃𝚒𝚝𝚕𝚎: ${data.title}  
 │ ∘ 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗: ${data.description || 'No description available'}  
 │ ∘ 𝙵𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜: ${data.followers}  
@@ -132,7 +132,7 @@ ${global.caption}`,
                 forwardingScore: 5,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363337275149306@newsletter",
+                    newsletterJid: "120363423981735135@g.us",
                     newsletterName: global.botname,
                     serverMessageId: 143
                 }
@@ -165,7 +165,7 @@ cmd({
         const userInfo = {
             image: { url: data.avatarLarger },
             caption: `
-╭────「 𝚂𝚃𝙰𝙻𝙺𝙴𝚁 」────◆  
+╭────「 RAHUL-AI 」────◆  
 │ ∘ 𝙽𝚒𝚌𝚔𝚗𝚊𝚖𝚎: ${data.nickname || 'Not available'}  
 │ ∘ 𝚄𝚜𝚎𝚛𝚗𝚊𝚖𝚎: ${data.username}  
 │ ∘ 𝚅𝚒𝚍𝚎𝚘𝚜 𝙿𝚘𝚜𝚝𝚎𝚍: ${data.videoCount}  
@@ -181,7 +181,7 @@ ${global.caption}`,
                 forwardingScore: 5,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363337275149306@newsletter",
+                    newsletterJid: "120363423981735135@g.us",
                     newsletterName: global.botname,
                     serverMessageId: 143
                 }
@@ -218,7 +218,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const userInfo = {
     image: { url: data.profile },
     caption: `
-╭────「 𝚂𝚃𝙰𝙻𝙺𝙴𝚁 」────◆  
+╭────「 RAHUL-AI 」────◆  
 │ ∘ 𝙵𝚞𝚕𝚕 𝙽𝚊𝚖𝚎: ${data.fullName || 'Not available'}  
 │ ∘ 𝚄𝚜𝚎𝚛𝚗𝚊𝚖𝚎: ${data.username}  
 │ ∘ 𝙱𝚒𝚘: ${data.bio || 'Not available'}  
@@ -233,7 +233,7 @@ ${global.caption}`,
         forwardingScore: 5,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363337275149306@newsletter",
+            newsletterJid: "120363423981735135@g.us",
             newsletterName: global.botname,
             serverMessageId: 143
         }
@@ -274,7 +274,7 @@ cmd({
         const output = {
             image: { url: imageUrl },
             caption: `
-╭────「 𝚂𝚃𝙰𝙻𝙺𝙴𝚁 」────◆  
+╭────「 RAHUL-AI 」────◆  
 │ ∘ 𝙿𝚊𝚌𝚔𝚊𝚐𝚎 𝙽𝚊𝚖𝚎: ${pkg.name}  
 │ ∘ 𝚅𝚎𝚛𝚜𝚒𝚘𝚗: ${pkg.version}  
 │ ∘ 𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗: ${pkg.description || "No description available"}  
@@ -291,7 +291,7 @@ ${global.caption}`,
                 forwardingScore: 5,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363337275149306@newsletter",
+                    newsletterJid: "120363423981735135@g.us",
                     newsletterName: global.botname,
                     serverMessageId: 143
                 }
