@@ -3,7 +3,7 @@ const fg = require('api-dylux');
 const config = require('../config');
 const { cmd, commands } = require('../command');
 const prefix = config.PREFIX; 
-const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson } = require('../Lib/functions');
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson } = require('../lib/functions');
 
 // gitstalk command
 cmd({
