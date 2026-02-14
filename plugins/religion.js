@@ -119,7 +119,7 @@ cmd({
 27. Revelation
 `;
 
-        const imageUrl = "https://files.catbox.moe/kx30st.jpeg"; 
+        const imageUrl = "https://i.ibb.co/zV930dMN/temp.jpg"; 
         
         if (!m.chat) {
             return reply("❌ *An error occurred: Invalid chat.*");
@@ -128,7 +128,7 @@ cmd({
         // Envoi de la réponse avec l'image et la liste des livres de la Bible
         await conn.sendMessage(m.chat, {
             image: { url: imageUrl },
-            caption: `📖 *Bible List By Empire_X*:\n\n` +
+            caption: `📖 *Bible List By RAHUL*:\n\n` +
                      `Here is the complete list of books in the Bible:\n\n` +
                      bibleList.trim() // Ajout du texte des livres de la Bible
         }, { quoted: mek });
