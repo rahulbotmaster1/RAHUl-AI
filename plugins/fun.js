@@ -1,6 +1,6 @@
 const { cmd, commands } = require('../command');
-const { sleep } = require('../Lib/functions');
-const msg = require('../Lib/msg');
+const { sleep } = require('../lib/functions');
+const msg = require('../lib/msg');
 const axios = require('axios'); // Import axios
 
 // Helper function to fetch data from the API using axios
