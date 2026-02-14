@@ -1,8 +1,8 @@
 //---------------------------------------------
-//           EMPIRE-MD  
+//           RAHUL-AI  
 //---------------------------------------------
-//  @project_name : EMPIRE-MD  
-//  @author      : efeurhobobullish
+//  @project_name : RAHUL-AI  
+//  @author      : rahulmaster
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------
 const { Sticker, StickerTypes } = require('wa-sticker-formatter');
@@ -141,7 +141,7 @@ cmd({
 
             let sticker = new Sticker(nameJpg, {
                 pack: global.botname, // Use global.botname for the sticker pack
-                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                author: global.devsname || 'Hacker Only_🥇RAHUL', // Use global.devsname for the author
                 type: StickerTypes.ROUND, // Round sticker type
                 categories: ['🤩', '🎉'], // Sticker categories
                 id: '12345', // Sticker id
@@ -158,7 +158,7 @@ cmd({
 
             let sticker = new Sticker(nameWebp, {
                 pack: global.botname, // Use global.botname for the sticker pack
-                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                author: global.devsname || 'Hacker Only_🥇Rahul', // Use global.devsname for the author
                 type: StickerTypes.ROUND, // Round sticker type
                 categories: ['🤩', '🎉'], // Sticker categories
                 id: '12345', // Sticker id
@@ -198,7 +198,7 @@ cmd({
 
             let sticker = new Sticker(nameJpg, {
                 pack: global.botname, // Use global.botname for the sticker pack
-                author: global.devsname || 'Hacker Only_🥇Empire', // Use global.devsname for the author
+                author: global.devsname || 'Hacker Only_🥇Rahul', // Use global.devsname for the author
                 type: StickerTypes.CROPPED, // CROP sticker type
                 categories: ['🤩', '🎉'], // Sticker categories
                 id: '12345', // Sticker id
