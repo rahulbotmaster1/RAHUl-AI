@@ -1,8 +1,8 @@
 //---------------------------------------------
-//           EMPIRE-MD  
+//           RAHUL-AI  
 //---------------------------------------------
-//  @project_name : EMPIRE-MD  
-//  @author       : efeurhobo  
+//  @project_name : RAHUL-AI  
+//  @author       : rahulmaster  
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------
 const config = require('../config');
@@ -12,10 +12,10 @@ const os = require('os'); // Import the os module
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson, saveconfig } = require('../Lib/functions');
 
 // Use global variables for dynamic content
-const botname = global.botname || "EMPIRE-MD";
+const botname = global.botname || "RAHUL-AI";
 const prefix = config.PREFIX || ".";
 const version = "1.0.0";
-const mode = config.MODE || "private";
+const mode = config.MODE || "public";
 //--------------------------------------------
 //            MENU COMMANDS
 //--------------------------------------------
@@ -78,7 +78,7 @@ const formatCategory = (category, cmds) => {
 
         // Send menu
         await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/gvg6ww.jpg' }, 
+            image: { url: 'https://i.ibb.co/zV930dMN/temp.jpg' }, 
             caption: menu.trim(),
         }, { quoted: mek });
     } catch (e) {
