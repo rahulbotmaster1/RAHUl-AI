@@ -7,9 +7,9 @@
 //---------------------------------------------
 const config = require('../config');
 const { cmd, commands } = require('../command');
-const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson, saveConfig} = require('../Lib/functions');
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson, saveConfig} = require('../lib/functions');
 const fs = require('fs');
-const { monospace } = require('../Lib/monospace');
+const { monospace } = require('../lib/monospace');
 const axios = require('axios');
 const { exec } = require('child_process'); 
 
