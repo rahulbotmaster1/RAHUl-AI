@@ -1,8 +1,8 @@
 //---------------------------------------------------------------------------
-//           EMPIRE-MD  
+//           RAHUL-AI
 //---------------------------------------------------------------------------
-//  @project_name : EMPIRE-MD  
-//  @author       : efeurhobo bullish
+//  @project_name : RAHUL-AI
+//  @author       : Rahul Master
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------------------------------------
 const {
@@ -79,7 +79,7 @@ require("./plugins/" + plugin);
 console.log('⏳ Checking External Plugins.!')
 console.log('✅ External Plugins Installed!')
         let up = `
-╭──「 𝙴𝙼𝙿𝙸𝚁𝙴-𝙼𝙳 」───◆  
+╭──「 RAHUL-AI 」───◆  
 │ ∘ 𝙿𝚛𝚎𝚏𝚒𝚡: [ ${prefix} ]  
 │ ∘ 𝙼𝚘𝚍𝚎: ${mode}  
 │ ∘ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖: 𝙻𝚒𝚗𝚞𝚡  
@@ -219,7 +219,7 @@ command.function(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGr
 })
 }
 app.get("/", (req, res) => {
-res.send("EMPIRE-MD Connected");
+res.send("RAHUL-AI Connected");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
