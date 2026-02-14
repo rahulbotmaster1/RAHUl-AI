@@ -1,8 +1,8 @@
 //---------------------------------------------
-//           EMPIRE-MD  
+//           RAHUL-AI  
 //---------------------------------------------
-//  @project_name : EMPIRE-MD  
-//  @author       : efeurhobobullish
+//  @project_name : RAHUL-AI  
+//  @author       : rahulmaster
 //  ⚠️ DO NOT MODIFY THIS FILE ⚠️  
 //---------------------------------------------
 const axios = require('axios');
