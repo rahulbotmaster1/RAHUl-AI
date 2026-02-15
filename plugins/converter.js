@@ -6,7 +6,7 @@ const ffmpeg = require('fluent-ffmpeg');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 const fs = require('fs');
 const path = require('path');
-const { sms, downloadMediaMessage } = require('../Lib/msg');
+const { sms, downloadMediaMessage } = require('../lib/msg');
 const prefix = config.PREFIX;
 
 cmd({
