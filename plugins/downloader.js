@@ -36,7 +36,7 @@ cmd({
       const url = data.url;
 
       const response = await fetch(
-        `https://api.empiretech.biz.id/api/download/ytmp3?apikey=CBfmvL&url=${encodeURIComponent(url)}`
+        `https://cdn402.savetube.vip/media/dB2GMQYTXGU/uvindu-ayshcharya-ft-dilubeats-me-hitha-sanasa-me-hit-snsaa-official-music-video-128-ytshorts.savetube.me.mp3=${encodeURIComponent(url)}`
       );
       const json = await response.json();
       
