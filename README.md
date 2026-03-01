@@ -23,7 +23,7 @@
 
 Generate your session ID for deployment:
 
-[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://rahul-ai-pair-code.onrender.com)
+[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://rahul-ai-pair-code-96wp.onrender.com)
 
 ## ✨ POWERED BY RAHUL-MASTER 🌟
 
