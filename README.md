@@ -42,7 +42,7 @@ _Click the button below to fork RAHUL AI repository to your GitHub account_
 
 > 2. ɢᴇᴛ ᴘᴀɪʀ sᴇssɪᴏɴ_ɪᴅ
 
-[![Starcore Session](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](known-debor-rahulhiran440-0cf3c18b.koyeb.app/)
+[![Starcore Session](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](known-debor-rahulhiran440-0cf3c18b.koyeb.app./)
 
 
 > sᴇssɪᴏɴ ɪᴅ sᴇʀᴠᴇʀ 2
