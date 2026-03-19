@@ -82,7 +82,7 @@ _Click the button below to fork RAHUL AI repository to your GitHub account_
   </a>
 <br>
 <div align="left">
-  <a href="https://t.me/rahulhiran9">
+  <a href="https://t.me/@rahulmasters9">
     <img src="https://img.shields.io/badge/Join%20telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="ᴊᴏɪɴ ᴛᴇʟᴇɢʀᴀᴍ"/>
   </a>
 </div>
